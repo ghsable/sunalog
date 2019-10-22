@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "すなろぐ"
+publishDir = "docs"
 theme = "charaka-hugo-theme"
 copyright = "Copyright© 2019 <a href=\"https://github.com/ghsable/ghsable.github.io\">@Necosuna</a> All Rights Reserved."
 disqusShortname = ""

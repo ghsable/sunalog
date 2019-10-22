@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>すなろぐ</title>
-    <link>https://ghsable.github.io/sunalog/</link>
-    <description>Recent content on すなろぐ</description>
+    <title>Posts on すなろぐ</title>
+    <link>https://ghsable.github.io/sunalog/posts/</link>
+    <description>Recent content in Posts on すなろぐ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright© 2019 &lt;a href=&#34;https://github.com/ghsable/ghsable.github.io&#34;&gt;@Necosuna&lt;/a&gt; All Rights Reserved.</copyright>
     <lastBuildDate>Wed, 23 Oct 2019 02:09:13 +0900</lastBuildDate>
     
-	<atom:link href="https://ghsable.github.io/sunalog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ghsable.github.io/sunalog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

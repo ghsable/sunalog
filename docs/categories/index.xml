@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on すなろぐ</title>
-    <link>http://example.org/categories/</link>
+    <link>https://ghsable.github.io/sunalog/categories/</link>
     <description>Recent content in Categories on すなろぐ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright© 2019 &lt;a href=&#34;https://github.com/ghsable/ghsable.github.io&#34;&gt;@Necosuna&lt;/a&gt; All Rights Reserved.</copyright>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ghsable.github.io/sunalog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

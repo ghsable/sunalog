@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://ghsable.github.io/sunalog/"
+canonifyurls = true
 languageCode = "en-us"
 title = "すなろぐ"
 publishDir = "docs"

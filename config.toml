@@ -1,0 +1,25 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "すなろぐ"
+theme = "charaka-hugo-theme"
+copyright = "Copyright© 2019 <a href=\"https://github.com/ghsable/ghsable.github.io\">@Necosuna</a> All Rights Reserved."
+disqusShortname = ""
+googleAnalytics = ""
+
+[params]
+
+[params.highlight]
+  style = "zenburn"
+
+[[params.social]]
+  url = "https://ghsable.github.io/"
+  fa_icon = "fas fa-info"
+
+[[params.social]]
+  url = "https://github.com/ghsable/"
+  fa_icon = "fab fa-github"
+
+
+[[params.social]]
+  url = "https://twitter.com/tnsable"
+  fa_icon = "fab fa-twitter"

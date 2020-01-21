@@ -1,27 +1,17 @@
 baseURL = "https://ghsable.github.io/sunalog/"
 canonifyurls = true
 languageCode = "en-us"
-title = "すなろぐ"
+title = "sunalog"
 publishDir = "docs"
-theme = "charaka-hugo-theme"
-copyright = "Copyright© 2019 <a href=\"https://github.com/ghsable/ghsable.github.io\">@Necosuna</a> All Rights Reserved."
-disqusShortname = ""
 googleAnalytics = ""
+theme = "github-style"
 
-[params]
+[Params]
+ author = "suna"
+ description = "Use software leverage to your advantage."
+ github = "ghsable"
+ twitter = "tnsable"
+ email = "suna@xmpp.is"
+ utterances = "https://github.com/ghsable/ghsable.github.io"
+ avatar = 'image/theme/profile.jpg'
 
-[params.highlight]
-  style = "zenburn"
-
-[[params.social]]
-  url = "https://ghsable.github.io/"
-  fa_icon = "fas fa-info"
-
-[[params.social]]
-  url = "https://github.com/ghsable/"
-  fa_icon = "fab fa-github"
-
-
-[[params.social]]
-  url = "https://twitter.com/tnsable"
-  fa_icon = "fab fa-twitter"

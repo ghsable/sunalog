@@ -8,5 +8,5 @@
 * [Hugo](https://gohugo.io/)
 
 **Theme**
-* [charaka-hugo-theme](https://github.com/natarajmb/charaka-hugo-theme)
+* [github-style](https://github.com/MeiK2333/github-style)
 

@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-01-21T08:21:29+09:00
-draft: true
+layout: "about"
 ---
 
 **技術的解消を目指すblogを運営しています。**

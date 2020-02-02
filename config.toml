@@ -1,10 +1,9 @@
 baseURL = "https://ghsable.github.io/sunalog/"
-canonifyurls = true
 languageCode = "en-us"
 title = "sunalog"
-googleAnalytics = ""
-publishDir = "docs"
 theme = "github-style"
+publishDir = "docs"
+googleAnalytics = ""
 
 [Params]
  author = "suna"
@@ -14,4 +13,4 @@ theme = "github-style"
  email = "suna@xmpp.is"
  utterances = "https://github.com/ghsable/ghsable.github.io"
  avatar = 'images/avatar.png'
-
+ url = "https://github.com/ghsable/ghsable.github.io"

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sunalog</title>
-    <link>https://ghsable.github.io/sunalog/</link>
-    <description>Recent content on sunalog</description>
+    <title>Posts on sunalog</title>
+    <link>https://ghsable.github.io/sunalog/posts/</link>
+    <description>Recent content in Posts on sunalog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Feb 2020 08:50:22 +0900</lastBuildDate>
     
-	<atom:link href="https://ghsable.github.io/sunalog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ghsable.github.io/sunalog/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>https://ghsable.github.io/sunalog/posts/hello/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ghsable.github.io/sunalog/about/</link>
-      <pubDate>Mon, 03 Feb 2020 08:36:10 +0900</pubDate>
-      
-      <guid>https://ghsable.github.io/sunalog/about/</guid>
-      <description>hello world.</description>
     </item>
     
   </channel>

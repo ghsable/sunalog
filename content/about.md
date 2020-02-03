@@ -5,10 +5,11 @@ layout: "about"
 ---
 
 # GitHub
-## vimpacks
-Vim7以降の標準パッケージ管理を支援するツールです。  
-設定ファイルに対して冪統制を保ちます。  
-> https://ghsable.github.io/vimpacks  
+## [vimpacks](https://ghsable.github.io/vimpacks)
+```
+Vim7以降搭載の標準パッケージマネージャー支援ツールです。
+設定ファイルに対して冪統制を保ちます。
+```
 
 ## Portfolio
 HTML+CSS+JavaScriptで構成したポートフォリオです。  

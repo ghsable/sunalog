@@ -6,6 +6,7 @@
     <description>Recent content on sunalog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>Copyright© 2019 &lt;a href=&#34;https://github.com/ghsable/sunalog&#34;&gt;@sunalog&lt;/a&gt; All Rights Reserved.</copyright>
     <lastBuildDate>Mon, 03 Feb 2020 08:50:22 +0900</lastBuildDate>
     
 	<atom:link href="https://ghsable.github.io/sunalog/index.xml" rel="self" type="application/rss+xml" />
@@ -27,22 +28,7 @@
       <pubDate>Mon, 03 Feb 2020 08:36:10 +0900</pubDate>
       
       <guid>https://ghsable.github.io/sunalog/about/</guid>
-      <description>GitHub vimpacks Vim7以降搭載の標準パッケージマネージャー支援ツールです。 設定ファイルに対して冪統制を保ちます。 Portfolio HTML+CSS+JavaScriptで構成したポートフォリオです。
-フレームワークは一切使用していません。
- https://ghsable.github.io
- sunalog 個人的な技術ブログです。
- https://ghsable.github.io/sunalog
- dotfiles OS別に自環境を一元管理しています。
- https://ghsable.github.io/dotfiles
- Other YouTube RTX2080Tiの限界に挑戦したり、猫と遊んだりしています。
- https://youtube.com/user/SunaTune
-https://youtube.com/user/SunaTune
- Amazon 上位レビュワーを目指して本気レビューをしています。
-ほしいものリストから買ってくれると喜びます。
- https://www.amazon.co.jp/gp/profile/amzn1.account.AGWZCJTUD6SUXZY2BMMLHER3THKQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8
- LINE Creators Market LINEスタンプを制作・販売しています。
- https://store.line.me/stickershop/author/1226923
- </description>
+      <description>つくったもの vimpacks Vim7以降搭載の標準パッケージマネージャー支援ツールです。 設定ファイルに対して冪統制を保ちます。 portfolio HTML+CSS+JavaScriptで構成したポートフォリオです。 フレームワークは一切使用していません。 sunalog 個人的な技術ブログです。 dotfiles OS別に自環境を一元管理しています。 その他の活動 YouTube , YouTube RTX2080Tiの限界に挑戦したり、猫と遊んだりしています。 Amazon 上位レビュワーを目指して本気レビューをしています。 ほしいものリストから買ってくれると喜びます。 LINE Creators Market LINEスタンプを制作・販売しています。 </description>
     </item>
     
   </channel>

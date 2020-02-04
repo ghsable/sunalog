@@ -4,38 +4,43 @@ date: 2020-02-03T08:36:10+09:00
 layout: "about"
 ---
 
-# GitHub
+# つくったもの
 ## [vimpacks](https://ghsable.github.io/vimpacks)
 ```
 Vim7以降搭載の標準パッケージマネージャー支援ツールです。
 設定ファイルに対して冪統制を保ちます。
 ```
 
-## Portfolio
-HTML+CSS+JavaScriptで構成したポートフォリオです。  
-フレームワークは一切使用していません。  
-> https://ghsable.github.io  
+## [portfolio](https://ghsable.github.io)
+```
+HTML+CSS+JavaScriptで構成したポートフォリオです。
+フレームワークは一切使用していません。
+```
 
-## sunalog
-個人的な技術ブログです。  
-> https://ghsable.github.io/sunalog  
+## [sunalog](https://ghsable.github.io/sunalog)
+```
+個人的な技術ブログです。
+```
 
-## dotfiles
-OS別に自環境を一元管理しています。  
-> https://ghsable.github.io/dotfiles  
+## [dotfiles](https://ghsable.github.io/dotfiles)
+```
+OS別に自環境を一元管理しています。
+```
 
-# Other
-## YouTube
-RTX2080Tiの限界に挑戦したり、猫と遊んだりしています。  
-> https://youtube.com/user/SunaTune  
-> https://youtube.com/user/SunaTune  
+# その他の活動
+## [YouTube](https://youtube.com/user/SunaTune) , [YouTube](https://www.youtube.com/channel/UCZ6aj_JfxKjkaV8BLGw3WBw)
+```
+RTX2080Tiの限界に挑戦したり、猫と遊んだりしています。
+```
 
-## Amazon
-上位レビュワーを目指して本気レビューをしています。  
-ほしいものリストから買ってくれると喜びます。  
-> https://www.amazon.co.jp/gp/profile/amzn1.account.AGWZCJTUD6SUXZY2BMMLHER3THKQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8  
+## [Amazon](https://www.amazon.co.jp/gp/profile/amzn1.account.AGWZCJTUD6SUXZY2BMMLHER3THKQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+```
+上位レビュワーを目指して本気レビューをしています。
+ほしいものリストから買ってくれると喜びます。
+```
 
-## LINE Creators Market
-LINEスタンプを制作・販売しています。  
-> https://store.line.me/stickershop/author/1226923  
+## [LINE Creators Market](https://store.line.me/stickershop/author/1226923)
+```
+LINEスタンプを制作・販売しています。
+```
 

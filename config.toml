@@ -4,7 +4,7 @@ title = "sunalog"
 theme = "github-style"
 publishDir = "docs"
 copyright = "Copyright© 2019 <a href=\"https://github.com/ghsable/sunalog\">@sunalog</a> All Rights Reserved."
-googleAnalytics = ""
+googleAnalytics = "UA-157767797-1"
 disqusShortname = "sunalog"
 
 [Params]

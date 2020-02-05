@@ -3,8 +3,9 @@ languageCode = "en-us"
 title = "sunalog"
 theme = "github-style"
 publishDir = "docs"
-googleAnalytics = ""
 copyright = "Copyright© 2019 <a href=\"https://github.com/ghsable/sunalog\">@sunalog</a> All Rights Reserved."
+googleAnalytics = ""
+disqusShortname = "suna"
 
 [Params]
  author = "suna"
@@ -13,4 +14,5 @@ copyright = "Copyright© 2019 <a href=\"https://github.com/ghsable/sunalog\">@su
  twitter = "tnsable"
  email = "suna@xmpp.is"
  url = "https://ghsable.github.io"
+ utterances = "https://ghsable.github.io"
  avatar = 'https://ghsable.github.io/sunalog/images/shima.jpg'

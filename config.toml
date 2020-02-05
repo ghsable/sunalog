@@ -5,7 +5,7 @@ theme = "github-style"
 publishDir = "docs"
 copyright = "Copyright© 2019 <a href=\"https://github.com/ghsable/sunalog\">@sunalog</a> All Rights Reserved."
 googleAnalytics = ""
-disqusShortname = "suna"
+disqusShortname = "sunalog"
 
 [Params]
  author = "suna"

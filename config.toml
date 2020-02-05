@@ -5,8 +5,7 @@ theme = "github-style"
 publishDir = "docs"
 copyright = "Copyright© 2019 <a href=\"https://github.com/ghsable/sunalog\">@sunalog</a> All Rights Reserved."
 googleAnalytics = "UA-157767797-1"
-utterances = "https://ghsable.github.io/sunalog"
-disqusShortname = "sunalog"
+utterances = "ghsable/sunalog"
 
 [Params]
  author = "suna"
@@ -15,5 +14,4 @@ disqusShortname = "sunalog"
  twitter = "tnsable"
  email = "suna@xmpp.is"
  url = "https://ghsable.github.io"
- utterances = "https://ghsable.github.io"
  avatar = 'https://ghsable.github.io/sunalog/images/shima.jpg'

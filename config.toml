@@ -1,10 +1,10 @@
 baseURL = "https://ghsable.github.io/sunalog/"
 languageCode = "en-us"
 title = "sunalog"
-theme = "github-style"
 publishDir = "docs"
-copyright = "Copyright© 2019 <a href=\"https://github.com/ghsable/sunalog\">@sunalog</a> All Rights Reserved."
 googleAnalytics = "UA-157767797-1"
+theme = "github-style"
+copyright = "Copyright© 2019 <a href=\"https://github.com/ghsable/sunalog\">@sunalog</a> All Rights Reserved."
 
 [Params]
  author = "suna"

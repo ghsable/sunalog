@@ -12,3 +12,7 @@
 
 **Comments widget**
 * [utterances](https://utteranc.es/)
+
+**Analytics**
+* [Google Analytics](https://analytics.google.com/analytics/web/)
+

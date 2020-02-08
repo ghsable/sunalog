@@ -1,7 +1,7 @@
 # suna's Blog
 
 ## GitHub Pages
-* [すなろぐ](https://ghsable.github.io/sunalog/)
+* [](https://ghsable.github.io/sunalog/)
 
 ## Thanks to ...
 **Static site generators**

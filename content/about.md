@@ -5,24 +5,24 @@ layout: "about"
 ---
 
 # GitHub
-## [portfolio](https://ghsable.github.io)
+## [Portfolio](https://ghsable.github.io)
 ```
 HTML+CSS+JavaScriptで構成したポートフォリオです。
 フレームワークは一切使用していません。
 ```
 
-## [sunalog](https://ghsable.github.io/sunalog)
+## [Sunalog](https://ghsable.github.io/sunalog)
 ```
 個人的な技術ブログです。
 ```
 
-## [vimpacks](https://ghsable.github.io/vimpacks)
+## [Vimpacks](https://ghsable.github.io/vimpacks)
 ```
 Vim7以降搭載の標準パッケージマネージャー支援ツールです。
 設定ファイルに対して冪統制を保ちます。
 ```
 
-## [dotfiles](https://ghsable.github.io/dotfiles)
+## [Dotfiles](https://ghsable.github.io/dotfiles)
 ```
 OS別に自環境を一元管理しています。
 ```

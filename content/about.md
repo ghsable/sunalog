@@ -39,14 +39,20 @@ GitHub公式プロフィールより詳細に表示されますが、かなり�
 RTX2080Tiの限界に挑戦したり , 猫と遊んだりしています。
 ```
 
-## [Amazon](https://www.amazon.co.jp/gp/profile/amzn1.account.AGWZCJTUD6SUXZY2BMMLHER3THKQ/ref=cm_cr_getr_d_gw_btm?ie=UTF8)
+## [Amazon](https://amazon.co.jp/gp/profile/amzn1.account.AGWZCJTUD6SUXZY2BMMLHER3THKQ/ref=cm_cr_othr_d_gw_tr?ie=UTF8)
 ```
-上位レビュワーを目指して本気レビューをしています。
-ほしいものリストから買ってくれると喜びます。
+ひたすらレビューをしています。
+多少のお役に立てれば幸いです。
 ```
 
 ## [LINE Creators Market](https://store.line.me/stickershop/author/1226923)
 ```
 LINEスタンプを制作・販売しています。
+```
+
+# Contribution
+* [WishList](https://amazon.jp/hz/wishlist/ls/2VX9TT6G43DHR?ref_=wl_share)
+```
+お気持ちをいただけると今後の活動にとても助かります。
 ```
 

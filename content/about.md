@@ -27,6 +27,12 @@ Vim7以降搭載の標準パッケージマネージャー支援ツールです�
 OS別に自環境を一元管理しています。
 ```
 
+## [Sourcerer.io](https://sourcerer.io/ghsable)
+```
+GitHubをベースに活動状況をグラフィカルに俯瞰できます。
+GitHub公式プロフィールより詳細に表示されますが、かなり重いです。
+```
+
 # Other
 ## [YouTube](https://youtube.com/user/SunaTune) , [YouTube](https://www.youtube.com/channel/UCZ6aj_JfxKjkaV8BLGw3WBw)
 ```

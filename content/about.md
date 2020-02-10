@@ -16,7 +16,7 @@ sunaというハンドルネームを使って各処で活動しています。
 ## [Portfolio](https://ghsable.github.io)
 ```
 HTML+CSS+JavaScriptで構成したポートフォリオです。
-フレームワークは一切使用していません。
+無駄を排除した結果、リンク集になってしまいました。
 ```
 
 ## [Sunalog](https://ghsable.github.io/sunalog)
@@ -27,7 +27,7 @@ HTML+CSS+JavaScriptで構成したポートフォリオです。
 ## [Vimpacks](https://ghsable.github.io/vimpacks)
 ```
 Vim7以降搭載の標準パッケージマネージャー支援ツールです。
-設定ファイルに対して冪統制を保ちます。
+設定ファイルに対して冪統性を保ちます。
 ```
 
 ## [Dotfiles](https://ghsable.github.io/dotfiles)
@@ -38,7 +38,7 @@ OS別に自環境を一元管理しています。
 ## [Sourcerer.io](https://sourcerer.io/ghsable)
 ```
 GitHubをベースに活動状況をグラフィカルに俯瞰できます。
-GitHub公式プロフィールより詳細に表示されますが、かなり重いです。
+GitHub公式プロフィールをより詳細にした感じです。
 ```
 
 # Other

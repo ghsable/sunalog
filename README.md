@@ -16,3 +16,6 @@
 **Analytics**
 * [Google Analytics](https://analytics.google.com/analytics/web/)
 
+**DNS resolver**
+* [freenom](https://freenom.com)
+

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sunalog</title>
-    <link>http://sunalog.tk/</link>
+    <link>https://ghsable.github.io/sunalog/</link>
     <description>Recent content on sunalog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright© 2019 &lt;a href=&#34;https://ghsable.github.io/sunalog/about/&#34;&gt;@suna&lt;/a&gt; All Rights Reserved.</copyright>
     <lastBuildDate>Mon, 10 Feb 2020 03:49:23 +0900</lastBuildDate>
     
-	<atom:link href="http://sunalog.tk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ghsable.github.io/sunalog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HelloWorld</title>
-      <link>http://sunalog.tk/posts/202001/helloworld/</link>
+      <link>https://ghsable.github.io/sunalog/posts/202001/helloworld/</link>
       <pubDate>Mon, 10 Feb 2020 03:49:23 +0900</pubDate>
       
-      <guid>http://sunalog.tk/posts/202001/helloworld/</guid>
+      <guid>https://ghsable.github.io/sunalog/posts/202001/helloworld/</guid>
       <description>&lt;p&gt;静的サイトジェネレーターでブログを構築したってだけの話。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://sunalog.tk/about/</link>
+      <link>https://ghsable.github.io/sunalog/about/</link>
       <pubDate>Mon, 03 Feb 2020 08:36:10 +0900</pubDate>
       
-      <guid>http://sunalog.tk/about/</guid>
+      <guid>https://ghsable.github.io/sunalog/about/</guid>
       <description>Hello World! はじめまして。 sunaというハンドルネームを使って各処で活動しています。 生活基盤をこちらに移したいと考えており、試行錯誤を重ねています。 様々な方の目に触れ、多少のお役に立てれば嬉しく思います。 GitHub Portfolio HTML+CSS+JavaScriptで構成したポートフォリオです。 無駄を排除した結果、リンク集になってしまいました。 Sunalog 個人的な技術ブログです。 Vimpacks Vim7以降搭載の標準パッケージマネージャー支援ツールです。 設定ファイルに対して冪統性を保ちます。 Dotfiles OS別に自環境を一元管理しています。 Sourcerer.io GitHubをベースに活動状況をグラフィカルに俯瞰できます。 GitHub公式プロフィールをより詳細にした感じです。 Other YouTube , YouTube RTX2080Tiの限界に挑戦したり , 猫と遊んだりしています。 Amazon ひたすらレビューをしています。 多少のお役に立てれば幸いです。 LINE Creators Market LINEスタンプを制作・販売しています。 Contribution  WishList  お気持ちをいただけると今後の活動にとても助かります。 </description>
     </item>
     

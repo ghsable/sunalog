@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on sunalog</title>
-    <link>http://sunalog.tk/tags/</link>
+    <link>https://ghsable.github.io/sunalog/tags/</link>
     <description>Recent content in Tags on sunalog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright© 2019 &lt;a href=&#34;https://ghsable.github.io/sunalog/about/&#34;&gt;@suna&lt;/a&gt; All Rights Reserved.</copyright>
     
-	<atom:link href="http://sunalog.tk/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ghsable.github.io/sunalog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -8,7 +8,6 @@ layout: "about"
 ```
 はじめまして。
 sunaというハンドルネームを使って各処で活動しています。
-生活基盤をこちらに移したいと考えており、試行錯誤を重ねています。
 様々な方の目に触れ、多少のお役に立てれば嬉しく思います。
 ```
 
@@ -30,11 +29,6 @@ Vim7以降搭載の標準パッケージマネージャー支援ツールです�
 設定ファイルに対して冪統性を保ちます。
 ```
 
-## [Dotfiles](https://ghsable.github.io/dotfiles)
-```
-OS別に自環境を一元管理しています。
-```
-
 ## [Sourcerer.io](https://sourcerer.io/ghsable)
 ```
 GitHubをベースに活動状況をグラフィカルに俯瞰できます。
@@ -45,6 +39,11 @@ GitHub公式プロフィールをより詳細にした感じです。
 ## [YouTube](https://youtube.com/user/SunaTune) , [YouTube](https://www.youtube.com/channel/UCZ6aj_JfxKjkaV8BLGw3WBw)
 ```
 RTX2080Tiの限界に挑戦したり , 猫と遊んだりしています。
+```
+
+## [SlideShare](https://www.slideshare.net/ssuser34cda0)
+```
+BlogやTwitterなどでは適切な表現が難しい内容をスライドとして公開しています。
 ```
 
 ## [Amazon](https://amazon.co.jp/gp/profile/amzn1.account.AGWZCJTUD6SUXZY2BMMLHER3THKQ/ref=cm_cr_othr_d_gw_tr?ie=UTF8)

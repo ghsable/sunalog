@@ -7,13 +7,14 @@ layout: "about"
 # 概要
 > 本サイトは私的な[Blog](https://ghsable.github.io/sunalog)です。
 > 
-> 様々な方の目に触れ、多少のお役に立てれば嬉しく思います。
+> お役に立てれば幸いです。
 > 
 
 # 自己紹介
+> 以下にリンクをまとめました。
 > * [ghsable.github.io](https://ghsable.github.io)
 >> \# Products
->>> なにかを作ったり書いたり。
+>>> 何か作ったり書いたり。
 >>> 
 >> \# Game
 >>> ゲームをよくやります。
@@ -28,5 +29,5 @@ layout: "about"
 >>> 買って..(切実)
 >>> 
 > * [Sourcerer.io](https://sourcerer.io/ghsable)
->> GitHubの活動状態が俯瞰できるようです。
+>> GitHubの活動状況です。
 >> 

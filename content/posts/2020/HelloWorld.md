@@ -3,7 +3,7 @@ title: "HelloWorld"
 date: 2020-02-10T03:49:23+09:00
 draft: false
 ---
-静的サイトジェネレーターでブログを構築したってだけの話。
+静的サイトジェネレーターでブログを構築した話
 <!--more-->
 
 # Hello World!
@@ -53,4 +53,3 @@ Rust製のモノとかも考えましたが、今後の動向次第という事�
 興味がありましたら、[ウォッチ](https://ghsable.github.io/sunalog/posts/index.xml)していただけると吉です。
 
 よろしく。
-

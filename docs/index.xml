@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright© 2019 &lt;a href=&#34;https://github.com/ghsable/sunalog&#34;&gt;@suna&lt;/a&gt; All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 10 Feb 2020 03:49:23 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2020 23:49:06 +0900</lastBuildDate>
     
 	<atom:link href="https://sunalog.tk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hmm</title>
+      <link>https://sunalog.tk/posts/2020/hmm/</link>
+      <pubDate>Wed, 05 Aug 2020 23:49:06 +0900</pubDate>
+      
+      <guid>https://sunalog.tk/posts/2020/hmm/</guid>
+      <description>&lt;p&gt;筆が思ううように進まない話&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>HelloWorld</title>

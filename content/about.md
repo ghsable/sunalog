@@ -5,10 +5,8 @@ layout: "about"
 ---
 
 # 概要
-> 本サイトは私的な[Blog](https://ghsable.github.io/sunalog)です。
-> 
+> 本サイトは私的な[Blog](https://ghsable.github.io/sunalog)です。  
 > お役に立てれば幸いです。
-> 
 
 # 自己紹介
 > 以下にリンクをまとめました。

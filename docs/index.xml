@@ -1,57 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>sunalog</title>
-    <link>https://sunalog.tk/</link>
-    <description>Recent content on sunalog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright© 2019 &lt;a href=&#34;https://github.com/ghsable/sunalog&#34;&gt;@suna&lt;/a&gt; All Rights Reserved.</copyright>
-    <lastBuildDate>Wed, 05 Aug 2020 23:49:06 +0900</lastBuildDate>
-    
-	<atom:link href="https://sunalog.tk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Hmm</title>
-      <link>https://sunalog.tk/posts/2020/hmm/</link>
-      <pubDate>Wed, 05 Aug 2020 23:49:06 +0900</pubDate>
-      
-      <guid>https://sunalog.tk/posts/2020/hmm/</guid>
-      <description>&lt;p&gt;筆があまり進まない話&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>HelloWorld</title>
-      <link>https://sunalog.tk/posts/2020/helloworld/</link>
-      <pubDate>Mon, 10 Feb 2020 03:49:23 +0900</pubDate>
-      
-      <guid>https://sunalog.tk/posts/2020/helloworld/</guid>
-      <description>&lt;p&gt;静的サイトジェネレーターでブログを構築した話&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://sunalog.tk/about/</link>
-      <pubDate>Mon, 03 Feb 2020 08:36:10 +0900</pubDate>
-      
-      <guid>https://sunalog.tk/about/</guid>
-      <description>概要  本サイトは私的なBlogです。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sunalog</title><link>https://sunalog.tk/</link><description>Recent content on sunalog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Copyright© 2019 &lt;a href="https://github.com/ghsable/sunalog">@suna&lt;/a> All Rights Reserved.</copyright><lastBuildDate>Wed, 05 Aug 2020 23:49:06 +0900</lastBuildDate><atom:link href="https://sunalog.tk/index.xml" rel="self" type="application/rss+xml"/><item><title>Hmm</title><link>https://sunalog.tk/posts/2020/hmm/</link><pubDate>Wed, 05 Aug 2020 23:49:06 +0900</pubDate><guid>https://sunalog.tk/posts/2020/hmm/</guid><description>&lt;p>筆があまり進まない話&lt;/p></description></item><item><title>HelloWorld</title><link>https://sunalog.tk/posts/2020/helloworld/</link><pubDate>Mon, 10 Feb 2020 03:49:23 +0900</pubDate><guid>https://sunalog.tk/posts/2020/helloworld/</guid><description>&lt;p>静的サイトジェネレーターでブログを構築した話&lt;/p></description></item><item><title>About</title><link>https://sunalog.tk/about/</link><pubDate>Mon, 03 Feb 2020 08:36:10 +0900</pubDate><guid>https://sunalog.tk/about/</guid><description>概要 本サイトは私的なBlogです。
 お役に立てれば幸いです。
- 自己紹介  以下にリンクをまとめました。
- ghsable.github.io   # Products
- 何か作ったり書いたり。
- # Game
- ゲームをよくやります。
- # SNS
- 放置が多いです。
- # Contact
- 多分反応できます。
- # Please..
- 買って..(切実)
-   Sourcerer.io   GitHubの活動状況です。
-  </description>
-    </item>
-    
-  </channel>
-</rss>
+自己紹介 以下にリンクをまとめました。
+ghsable.github.io # Products
+何か作ったり書いたり。
+# Game
+ゲームをよくやります。
+# SNS
+放置が多いです。
+# Contact
+多分反応できます。
+# Please..
+買って..(切実)
+Sourcerer.io GitHubの活動状況です。</description></item></channel></rss>

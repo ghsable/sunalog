@@ -2,12 +2,9 @@
 [sunalog](https://ghsable.github.io/sunalog/) is my blog.
 
 ## Workflow
-* POST
-  * `Ctrl+c` [template](https://github.com/ghsable/sunalog/blob/master/content/posts/template) -> `Create new file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)yyyy/\*.md.
-* EDIT
-  * `Edit this file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)yyyy/\*.md.
-* BUILD/DEPLOY
-  * GitHub Actions.
+* POST : `Ctrl+c` [template](https://github.com/ghsable/sunalog/blob/master/content/posts/template) -> `Create new file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)yyyy/\*.md.
+* EDIT : `Edit this file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)yyyy/\*.md.
+* BUILD/DEPLOY : GitHub Actions.
 
 ## Thanks
 I used the following tools :

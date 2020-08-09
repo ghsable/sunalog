@@ -34,7 +34,7 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Build
-      run: hugo --minify
+      run: hugo --gc --cleanDestinationDir --minify
 
     # peaceiris/actions-gh-pages
     # https://github.com/peaceiris/actions-gh-pages

@@ -1,25 +1,17 @@
 backend:
   name: git-gateway
-  repo: ghsable/sunalog # Path to your GitHub repository
-  branch: master        # Branch to update (optional; defaults to master)
 
-# This line should *not* be indented
-#publish_mode: editorial_workflow
+media_folder: "images" # Folder where user uploaded files should go
+public_folder: "images"
 
-# These lines should *not* be indented
-media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images/uploads"      # The src attribute for uploaded media will begin with /images/uploads
-
-collections:
-  - name: 'Sunalog'
-    label: 'sunalog'
-    folder: 'content/posts'
-    create: true
-    slug: '{{slug}}'
-    editor:
-      preview: false
-    fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+collections: # A list of collections the CMS should be able to edit
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "content/posts" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}

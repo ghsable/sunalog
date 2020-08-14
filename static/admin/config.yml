@@ -1,10 +1,10 @@
 backend:
   name: git-gateway
   repo: ghsable/sunalog # Path to your GitHub repository
-  branch: master        # Branch to update (optional; defaults to master)
+#  branch: master        # Branch to update (optional; defaults to master)
 
 # This line should *not* be indented
-publish_mode: editorial_workflow
+#publish_mode: editorial_workflow
 
 # These lines should *not* be indented
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads

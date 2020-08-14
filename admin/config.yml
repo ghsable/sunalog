@@ -2,7 +2,6 @@ backend:
   name: git-gateway
   repo: ghsable/sunalog # Path to your GitHub repository
   branch: master        # Branch to update (optional; defaults to master)
-  site_domain: sunalog.netlify.com
 
 # This line should *not* be indented
 #publish_mode: editorial_workflow

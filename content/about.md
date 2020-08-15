@@ -3,7 +3,6 @@ title: "About"
 date: 2020-02-03T00:00:00+09:00
 layout: "about"
 ---
-
 # 概要
 > 本サイトは私的な[Blog](https://ghsable.github.io/sunalog)です。  
 > お役に立てれば幸いです。

@@ -2,8 +2,12 @@
 [sunalog](https://ghsable.github.io/sunalog/) is my blog.
 
 ## Workflow
-* POST : `Ctrl+c` [template](https://github.com/ghsable/sunalog/blob/master/content/posts/template) -> `Create new file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)yyyy/\*.md.
-* EDIT : `Edit this file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)yyyy/\*.md.
+#### Case1
+* [Netlify CMS](https://sunalog.netlify.app/admin/)
+
+#### Case2
+* POST : `Ctrl+c` [archetypes/default.md](https://github.com/ghsable/sunalog/blob/master/archetypes/default.md) -> `Create new file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)\*.md.
+* EDIT : `Edit this file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)\*.md.
 * BUILD/DEPLOY : GitHub Actions.
 
 ## Thanks
@@ -17,3 +21,5 @@ I used the following tools :
 >   * [actions/checkout](https://github.com/actions/checkout) : Checkout
 >   * [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) : Setup Hugo
 >   * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) : Deploy
+> * [Netlify](https://www.netlify.com/) : PaaS
+>   * [Netlify CMS](https://www.netlifycms.org/) : CMS

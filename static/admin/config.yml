@@ -16,7 +16,7 @@ collections: # A list of collections the CMS should be able to edit
     fields: # 入力項目
       - {label: "Title", name: "title", widget: "string"}
       # datetime - https://www.netlifycms.org/docs/widgets/datetime/
-      - {label: "Publish Date", name: "date", widget: "datetime", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm:ss", format: "YYYY-MM-DDTHH:mm:ss+09:00", pickerUtc: false}
+      - {label: "Publish Date", name: "date", widget: "datetime", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm", format: "YYYY-MM-DDTHH:mm:ss+09:00", pickerUtc: false}
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Body", name: "body", widget: "markdown"}
@@ -27,6 +27,6 @@ collections: # A list of collections the CMS should be able to edit
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm:ss", format: "YYYY-MM-DDTHH:mm:ss+09:00", pickerUtc: false}
+      - {label: "Publish Date", name: "date", widget: "datetime", dateFormat: "YYYY-MM-DD", timeFormat: "HH:mm", format: "YYYY-MM-DDTHH:mm:ss+09:00", pickerUtc: false}
       - {label: "Layout", name: "layout", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}

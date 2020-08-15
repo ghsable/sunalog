@@ -7,15 +7,14 @@ public_folder: "images/uploads"
 locale: "ja"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post_2020" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post_2020" # Used in the UI, ie.: "New Post"
-    folder: "content/posts/2020" # The path to the folder where the documents are stored
+  - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Posts" # Used in the UI, ie.: "New Post"
+    folder: "content/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields each document in this collection have
       - {label: "Slug", name: "slug", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
-      #- {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm"}
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ss+09:00", pickerUtc: true}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Body", name: "body", widget: "markdown"}

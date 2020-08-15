@@ -5,7 +5,7 @@ backend:
 locale: "ja"                          # 表示言語
 media_folder: "static/images/uploads" # 画像保存先(レポジトリ'/'起点)
 public_folder: "images/uploads"       # 画像保存先(デプロイ先'/'起点)
-#publish_mode: editorial_workflow      # 記事ステータス表示
+publish_mode: editorial_workflow      # 記事ステータス表示
 
 collections: # A list of collections the CMS should be able to edit
   - name: "posts"                               # セクション名

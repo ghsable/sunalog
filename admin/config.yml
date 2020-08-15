@@ -15,6 +15,6 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       #- {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm"}
-      - {label: "Publish Date", name: "date", widget: "datetime-local"}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm"}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Body", name: "body", widget: "markdown"}

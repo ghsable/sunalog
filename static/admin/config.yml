@@ -19,3 +19,13 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Summary", name: "summary", widget: "string"}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "content"
+    label: "Content"
+    folder: "content"
+    create: false
+    slug: {{slug}}
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ss+09:00"}
+      - {label: "Layout", name: "layout", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}

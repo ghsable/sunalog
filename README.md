@@ -3,12 +3,13 @@
 
 ## Workflow
 #### Case1
-* [Netlify CMS](https://sunalog.netlify.app/admin/)
+* POST/EDIT : [Netlify CMS](https://sunalog.netlify.app/admin/)
+* BUILD/DEPLOY : GitHub Actions
 
 #### Case2
-* POST : `Ctrl+c` [archetypes/default.md](https://github.com/ghsable/sunalog/blob/master/archetypes/default.md) -> `Create new file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)\*.md.
-* EDIT : `Edit this file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)\*.md.
-* BUILD/DEPLOY : GitHub Actions.
+* POST : `Ctrl+c` [archetypes/default.md](https://github.com/ghsable/sunalog/blob/master/archetypes/default.md) -> `Create new file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)\*.md
+* EDIT : `Edit this file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)\*.md
+* BUILD/DEPLOY : GitHub Actions
 
 ## Thanks
 I used the following tools :

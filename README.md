@@ -7,8 +7,8 @@
 * BUILD/DEPLOY : GitHub Actions
 
 #### Case2
-* POST : `Ctrl+c` [archetypes/default.md](https://github.com/ghsable/sunalog/blob/master/archetypes/default.md) -> `Create new file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)\*.md
-* EDIT : `Edit this file` [content/posts/](https://github.com/ghsable/sunalog/blob/master/content/posts/)\*.md
+* POST : `Ctrl+c` [archetypes/default.md](https://github.com/ghsable/sunalog/blob/main/archetypes/default.md) -> `Create new file` [content/posts/](https://github.com/ghsable/sunalog/blob/main/content/posts/)\*.md
+* EDIT : `Edit this file` [content/posts/](https://github.com/ghsable/sunalog/blob/main/content/posts/)\*.md
 * BUILD/DEPLOY : GitHub Actions
 
 ## Thanks

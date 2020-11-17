@@ -1,3 +1,5 @@
+docs
+
 # Created by https://www.gitignore.io/api/linux,macOS,Windows
 # Edit at https://www.gitignore.io/?templates=linux,macOS,Windows
 
@@ -70,5 +72,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/linux,macOS,Windows
-
-docs

@@ -8,9 +8,9 @@ public_folder: "images/uploads"       # 画像保存先(デプロイ先'/'起点
 #publish_mode: editorial_workflow      # 記事ステータス表示
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "posts"                               # セクション名
-    label: "Posts"                              # 表示用ラベル
-    folder: "content/posts"                     # Push先
+  - name: "post"                                # セクション名
+    label: "Post"                               # 表示用ラベル
+    folder: "content/post"                      # Push先
     create: true                                # 新規作成可否
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # ファイル名
     fields: # 入力項目

@@ -7,15 +7,14 @@
 * BUILD/DEPLOY : GitHub Actions
 
 #### Case2
-* POST : `Ctrl+c` [archetypes/default.md](https://github.com/ghsable/sunalog/blob/main/archetypes/default.md) -> `Create new file` [content/posts/](https://github.com/ghsable/sunalog/blob/main/content/posts/)\*.md
-* EDIT : `Edit this file` [content/posts/](https://github.com/ghsable/sunalog/blob/main/content/posts/)\*.md
+* POST : `Ctrl+c` [archetypes/default.md](https://github.com/ghsable/sunalog/blob/main/archetypes/default.md) -> `Create new file` [content/post/](https://github.com/ghsable/sunalog/blob/main/content/post/)\*.md
+* EDIT : `Edit this file` [content/post/](https://github.com/ghsable/sunalog/blob/main/content/post/)\*.md
 * BUILD/DEPLOY : GitHub Actions
 
 ## Thanks
 I used the following tools :
 > * [Hugo](https://gohugo.io/) : Static Site Generator
 >   * [github-style](https://github.com/MeiK2333/github-style) : Hugo's Theme
->     * [utterances](https://utteranc.es/) : Comments Widget
 >     * [Google Analytics](https://analytics.google.com/analytics/web/) : Access Analysis Service
 > * [freenom](https://freenom.com) : DNS-Resolver
 > * [GitHub Actions](https://github.co.jp/features/actions) : CI/CD

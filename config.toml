@@ -18,7 +18,7 @@ pygmentsUseClasses = true
  email = "suna@xmpp.is"
  url = "https://ghsable.github.io"
  avatar = 'https://ghsable.github.io/sunalog/images/uploads/shima.png'
- favicon = "/sunalog/images/github.png"
+ favicon = 'https://ghsable.github.io/sunalog/images/github.png'
  location = "Japan"
  lastmod = true
 

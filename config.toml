@@ -1,5 +1,5 @@
-#baseURL = "https://ghsable.github.io/sunalog/"
-baseURL = "https://sunalog.tk/"
+baseURL = "https://ghsable.github.io/sunalog/"
+#baseURL = "https://sunalog.tk/"
 languageCode = "en-us"
 title = "sunalog"
 publishDir = "docs"

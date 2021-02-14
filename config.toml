@@ -17,8 +17,8 @@ pygmentsUseClasses = true
  twitter = "tnsable"
  email = "suna@xmpp.is"
  url = "https://ghsable.github.io"
- avatar = 'https://ghsable.github.io/sunalog/images/uploads/shima.png'
- favicon = 'https://ghsable.github.io/sunalog/images/github.png'
+ avatar = "/sunalog/images/uploads/shima.png"
+ favicon = "/sunalog/images/github.png"
  location = "Japan"
  lastmod = true
 

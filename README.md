@@ -1,5 +1,5 @@
 # sunalog
-[sunalog](https://ghsable.github.io/sunalog/) is my blog.
+[sunalog](https://ghsable.github.io/sunalog/) is my Blog.
 
 ## Workflow
 #### Case1

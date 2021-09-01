@@ -19,7 +19,7 @@ draft: false
 私が実験的に開発している[LINE](https://line.me/ja/) Bot([LINE Developers](https://developers.line.biz/ja/))に [aimay](https://github.com/ghsable/aimay) があります。  
 
 大まかな構成は、以下の通りです。  
-* プログラミング言語: [Python](https://www.python.org/)
+* プログラミング言語: [Python3](https://www.python.org/)
 * モジュールの管理: [pip](https://github.com/pypa/pip)
 * モジュールの最新バージョン検知: [Dependabot](https://dependabot.com/)
 * Webアプリケーションフレームワーク: [Flask](https://github.com/pallets/flask)
@@ -28,7 +28,7 @@ draft: false
 * PaaS: [Heroku](https://heroku.com/)
 
 話に必要な情報に絞って明示しました。  
-より詳細を知りたい方は [aimay#Requirement](https://github.com/ghsable/aimay#requirement) をご覧ください。
+より詳細を把握したい方は [aimay#Development](https://github.com/ghsable/aimay#development) をご覧ください。
 
 # 環境説明 - 補足
 モジュールとそのバージョンを管理する`requirements.txt`を [Dependabot](https://dependabot.com/)が監視して 最新バージョンを検知します。  

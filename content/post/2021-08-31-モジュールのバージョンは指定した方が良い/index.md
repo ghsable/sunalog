@@ -33,7 +33,7 @@ draft: false
 # 環境説明 - 補足
 モジュールとそのバージョンを管理する`requirements.txt`を [Dependabot](https://dependabot.com/)が監視して 最新バージョンを検知します。  
 モジュールの最新バージョンを検知すると、[Dependabot](https://dependabot.com/)が`Pull Request`(`requirements.txt`を`commit`)を自動でくれます。  
-私はその`Pull Request`を確認して、`Pull Request`で作成された`branch`を`merge`しています。  
+私はその`Pull Request`の内容を確認して、`Pull Request`で作成された`branch`を`merge`しています。  
 
 `commit`をイベントに [GitHub Actions](https://github.com/features/actions/)が作動し、[Heroku](https://heroku.com/)へ`Deploy`されます。  
 ちなみに 今回起きたエラーは、この[GitHub Actions](https://github.com/features/actions/)のログから発覚したものです。

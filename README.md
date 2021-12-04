@@ -1,4 +1,6 @@
 # sunalog
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fghsable%2Fsunalog.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fghsable%2Fsunalog?ref=badge_shield)
+
 [sunalog](https://ghsable.github.io/sunalog/) is my Blog.
 
 ## Workflow
@@ -24,3 +26,7 @@ I used the following tools :
 >   * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) : Deploy
 > * [Netlify](https://www.netlify.com/) : PaaS
 >   * [Netlify CMS](https://www.netlifycms.org/) : CMS
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fghsable%2Fsunalog.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fghsable%2Fsunalog?ref=badge_large)

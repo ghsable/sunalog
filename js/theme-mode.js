@@ -1,11 +1,20 @@
 function switchTheme() {
   const currentStyle = currentTheme();
+  const iconElement = document.getElementById('github-icon');
 
-  if (currentStyle == 'light') {
+  if (currentStyle === 'light') {
     setTheme('dark');
+    if (iconElement) {
+      iconElement.setAttribute('class', 'octicon');
+      iconElement.setAttribute('color', '#f0f6fc');
+    }
   }
   else {
     setTheme('light');
+    if (iconElement) {
+      iconElement.removeAttribute('color');
+      iconElement.removeAttribute('class');
+    }
   }
 }
 

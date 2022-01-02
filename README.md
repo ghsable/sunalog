@@ -24,3 +24,6 @@ I used the following tools :
 >   * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) : Deploy
 > * [Netlify](https://www.netlify.com/) : PaaS
 >   * [Netlify CMS](https://www.netlifycms.org/) : CMS
+
+## License
+![CC BY-NC-SA 4.0](https://raw.githubusercontent.com/ghsable/sunalog/main/static/images/uploads/by-nc-sa.webp)

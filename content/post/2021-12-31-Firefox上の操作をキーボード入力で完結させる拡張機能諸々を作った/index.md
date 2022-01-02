@@ -27,9 +27,9 @@ draft: false
 * [余談2](#余談2)
 
 # 誘い
-`Webブラウジングがキーボード操作だけで完結する世界はいいぞ` と。  
+`Webブラウジングがキーボード操作だけで完結する世界は良い` 。  
 
-私は 以前の状態に戻るのは難しそうだ。  
+私は 以前の状態に戻ることは難しそうだ。  
 それ以上の言葉は必要が無いだろう。
 
 # 拡張機能
@@ -51,7 +51,7 @@ draft: false
 
 あとは、[Demo](https://github.com/ghsable/vimode#vimode)で感じていただきたい。  
 操作方法は[vimode#vi-like-operations](https://github.com/ghsable/vimode#vi-like-operations)を参照されたい。  
-[![demo_vimode.gif](https://raw.githubusercontent.com/ghsable/vimode/main/.readme/images/demo_vimode.gif)](https://raw.githubusercontent.com/ghsable/vimode/main/.readme/images/demo_vimode.mp4)
+[![demo_vimode](https://raw.githubusercontent.com/ghsable/vimode/main/.readme/images/demo_vimode.gif)](https://raw.githubusercontent.com/ghsable/vimode/main/.readme/images/demo_vimode.mp4)
 
 # 諸々
 
@@ -68,8 +68,8 @@ draft: false
 [vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/)とシームレスに繋がるよう ページ内にキーボードショートカットを用意している。  
 
 あとは、[Demo](https://github.com/ghsable/searchmode#demo)で感じていただきたい。  
-操作方法は[Keyboard shortcuts](https://github.com/ghsable/searchmode#keyboard-shortcuts)を参照されたい。  
-[![demo_searchmode.gif](https://raw.githubusercontent.com/ghsable/searchmode/main/.readme/images/demo_searchmode.gif)](https://raw.githubusercontent.com/ghsable/searchmode/main/.readme/images/demo_searchmode.mp4)
+操作方法は[searchmode#keyboard-shortcuts](https://github.com/ghsable/searchmode#keyboard-shortcuts)を参照されたい。  
+[![demo_searchmode](https://raw.githubusercontent.com/ghsable/searchmode/main/.readme/images/demo_searchmode.gif)](https://raw.githubusercontent.com/ghsable/searchmode/main/.readme/images/demo_searchmode.mp4)
 
 ## mousemode
 ページ内のリンクをクリックするために `Tab`を連打して目的のリンクにフォーカスを合わせなければいけない？  
@@ -78,8 +78,8 @@ draft: false
 - [mousemode](https://crates.io/crates/mousemode)
 
 あとは、[Demo](https://github.com/ghsable/mousemode#demo)で感じていただきたい。  
-インストール方法・操作方法は[mousemode](https://github.com/ghsable/mousemode#mousemode)を参照されたい。  
-[![demo_mousemode.gif](https://raw.githubusercontent.com/ghsable/mousemode/main/.readme/images/demo_mousemode.gif)](https://raw.githubusercontent.com/ghsable/mousemode/main/.readme/images/demo_mousemode.mp4)
+インストール方法・操作方法は[mousemode#mousemode](https://github.com/ghsable/mousemode#mousemode)を参照されたい。  
+[![demo_mousemode](https://raw.githubusercontent.com/ghsable/mousemode/main/.readme/images/demo_mousemode.gif)](https://raw.githubusercontent.com/ghsable/mousemode/main/.readme/images/demo_mousemode.mp4)
 
 # おわり
 マウスを排す というよりは、可能な限り 既存との共存を目指した。  
@@ -112,7 +112,7 @@ draft: false
 キーボードとマウスの両方を扱っている場合、脳からの伝達がそれぞれに分岐する。  
 この分岐してしまう点が`脳で現実世界を制御している感覚を阻害する要因`と考えている。  
 
-この分岐問題は どちらかに操作を寄せてしまえば解決する。  
+この脳からの分岐問題は どちらかに操作を寄せてしまえば解決する。  
 どちらに寄せるか・・文字入力が必要な点で キーボードが妥当な選択だろう。  
 スクリーンキーボードは どうも分が悪い。  
 

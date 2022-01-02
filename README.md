@@ -26,4 +26,4 @@ I used the following tools :
 >   * [Netlify CMS](https://www.netlifycms.org/) : CMS
 
 ## License
-![CC BY-NC-SA 4.0](https://raw.githubusercontent.com/ghsable/sunalog/main/static/images/uploads/by-nc-sa.webp)
+[![CC BY-NC-SA 4.0](https://raw.githubusercontent.com/ghsable/sunalog/main/static/images/uploads/by-nc-sa.eu.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)

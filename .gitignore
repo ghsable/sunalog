@@ -1,3 +1,4 @@
+.hugo_build.lock
 docs
 
 # Created by https://www.gitignore.io/api/linux,macOS,Windows

@@ -3,8 +3,8 @@
 
 ## Workflow
 #### Case1
-* POST/EDIT : [Netlify CMS](https://sunalog.netlify.app/admin/)
-* BUILD/DEPLOY : GitHub Actions
+* ~~POST/EDIT : [Netlify CMS](https://sunalog.netlify.app/admin/)~~
+* ~~BUILD/DEPLOY : GitHub Actions~~
 
 #### Case2
 * POST : `Ctrl+c` [archetypes/default.md](https://github.com/ghsable/sunalog/blob/main/archetypes/default.md) -> `Create new file` [content/post/](https://github.com/ghsable/sunalog/blob/main/content/post/)\*.md
@@ -22,8 +22,8 @@ I used the following tools :
 >   * [actions/checkout](https://github.com/actions/checkout) : Checkout
 >   * [peaceiris/actions-hugo](https://github.com/peaceiris/actions-hugo) : Setup Hugo
 >   * [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) : Deploy
-> * [Netlify](https://www.netlify.com/) : PaaS
->   * [Netlify CMS](https://www.netlifycms.org/) : CMS
+> * ~~[Netlify](https://www.netlify.com/) : PaaS~~
+>   * ~~[Netlify CMS](https://www.netlifycms.org/) : CMS~~
 
 ## License
 [![CC BY-NC-SA 4.0](https://raw.githubusercontent.com/ghsable/sunalog/main/static/images/uploads/by-nc-sa.eu.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -72,6 +72,18 @@ draft: false
 [![demo_searchmode](https://raw.githubusercontent.com/ghsable/searchmode/main/.readme/images/demo_searchmode.gif)](https://raw.githubusercontent.com/ghsable/searchmode/main/.readme/images/demo_searchmode.mp4)
 
 ## mousemode
+```
+⚠️
+Repository を Public から Public archive へ変更しました。
+私が、X Window System から Wayland へ移行したためです。
+
+また、dependencies の mouse_rs の dependencies の stdweb は2019年10月に開発が停止しています。
+ご利用の際は、ご留意いただけますと幸いです。
+https://github.com/koute/stdweb
+
+ついでに余談ですが、mousemode 的アプローチはお遊び程度のご利用をお勧めします。
+手元に 赤ポチ がある方は、そちらをご利用された方が幸せになれると考えられます。
+```
 ページ内のリンクをクリックするために `Tab`を連打して目的のリンクにフォーカスを合わせなければいけない？  
 その心配は無用、マウス操作もキーボード操作に組み込んでしまえば良い。  
 あなたは`Tab`を連打する必要も無いし、リンク属性に付与された小さなアルファベットに目を凝らす必要も無い。  

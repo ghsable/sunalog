@@ -77,7 +77,7 @@ draft: false
 Repository を Public から Public archive へ変更しました。
 私が、X Window System から Wayland へ移行したためです。
 
-また、dependencies の mouse_rs の dependencies の stdweb は2019年10月に開発が停止しています。
+また、dependencies の mouse_rs の dependencies の stdweb は2019年10月に開発を停止しています。
 ご利用の際は、ご留意いただけますと幸いです。
 https://github.com/koute/stdweb
 

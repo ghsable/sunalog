@@ -27,14 +27,20 @@ draft: false
 * [余談2](#余談2)
 
 # 誘い
-`Webブラウジングがキーボード操作だけで完結する世界は良い` 。  
-
-私は 以前の状態に戻ることは難しそうだ。  
-それ以上の言葉は必要が無いだろう。
+`Webブラウジングがキーボードの操作だけで完結してくれると心地良い！` 。  
 
 # 拡張機能
 
 ## vimode
+```
+⚠️
+キーボードショートカットの競合はなるべく避けるよう意識したつもりですが、完全に避ける事は当然に不可能です。
+(余談ですが、vimode のような拡張機能は、ブラウザベンダが想定している「王道」ではなく「邪道」な拡張機能です。)
+また、vimode が機能しては困るページも出てくると思います。(タイピングサイトなど)
+vimode を機能させないように なるべく共通の特性でフィルターを掛けていますが、
+共通の特性の無いWebサイトに対しては、個別の対応はしていません。(対応予定もありません。)
+vimode が機能して困る場面で「拡張機能を無効」、必要な場面で「拡張機能を有効」という運用を想定しています。
+```
 まずは中核。  
 キーボードショートカットを提供する [Firefox](https://www.mozilla.org/en-US/firefox/new/) [Add-on](https://addons.mozilla.org/en-US/firefox/) である。
 - [vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/)  
@@ -61,8 +67,9 @@ draft: false
 - [searchmode](https://ghsable.github.io/searchmode/)
 
 [vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/)の キー`o` で開くようにしており、[vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/)の機能の一部としての位置付けとなる。  
-ただし、独立したWebページにしているため 単体での利用もできる。  
+ただし、独立したWebページにしているため(※1) 単体での利用もできる。  
 動的にDOM操作を行う 数多の検索トップ画面の気持ち悪さから 多少なりとも開放されるのかもしれない。  
+(※1) 組込みページは 拡張機能が無効になる仕様が存在するため、独立したWebページにしている。
 
 先述の通り これは[vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/)のトップページで、  
 [vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/)とシームレスに繋がるよう ページ内にキーボードショートカットを用意している。  
@@ -94,13 +101,10 @@ koute/stdweb - https://github.com/koute/stdweb
 [![demo_mousemode](https://raw.githubusercontent.com/ghsable/mousemode/main/.readme/images/demo_mousemode.gif)](https://raw.githubusercontent.com/ghsable/mousemode/main/.readme/images/demo_mousemode.mp4)
 
 # おわり
-マウスを排す というよりは、可能な限り 既存との共存を目指した。  
-ここまで試していただいた方には まず感謝を述べたい。  
-
-こんなマニアックな話に付き合ってくれて ありがとう！  
+「マウスを排す」というよりは、可能な限り「既存との共存」を目指した。  
 
 ここまで試していただいた方は [Firefox](https://www.mozilla.org/en-US/firefox/new/)をキーボードだけで ある程度自在に操作ができるようになったのではないだろうか。  
-私と似た感覚を持つ方が 1人2人...はどこかに存在するのではないか と思い 公開をした。  
+合う・合わない は承知の上、私と似た感覚を持つ方が 1人2人...はどこかに存在するのではないか と思い 公開をした。  
 数あるオペレーションの一つ として楽しんでいただければ嬉しく思う。
 
 # 余談1

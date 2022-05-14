@@ -103,7 +103,7 @@ koute/stdweb - https://github.com/koute/stdweb
 # おわり
 「マウスを排す」というよりは、可能な限り「既存との共存」を目指した。  
 
-ここまで試していただいた方は [Firefox](https://www.mozilla.org/en-US/firefox/new/)をキーボードだけで ある程度自在に操作ができるようになったのではないだろうか。  
+ここまで試していただいた方は、[Firefox](https://www.mozilla.org/en-US/firefox/new/)をキーボードだけで ある程度自在に操作ができるようになったのではないだろうか。  
 
 合う・合わない は承知の上、  
 `私と似た感覚を持つ方が 1人2人...はどこかに存在するのではないか`と思い 公開をした。  

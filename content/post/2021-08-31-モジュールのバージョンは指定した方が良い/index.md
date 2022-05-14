@@ -72,7 +72,7 @@ To fix this you could try to:
 
 # 余談
 [flask](https://github.com/pallets/flask)と[Jinja2](https://github.com/pallets/jinja)の開発元は、[Armin Ronacher](https://lucumr.pocoo.org/about/)が率いる[Pallets](https://palletsprojects.com/)です。  
-[flask](https://github.com/pallets/flask)と[sphinx](https://github.com/sphinx-doc/sphinx)の開発元は違うんですねぇ。  
+[flask](https://github.com/pallets/flask)と[sphinx](https://github.com/sphinx-doc/sphinx)の開発元は違うんですねぇ..。  
 現在では 依存関係による問題を回避してくれるパッケージ管理ツールは沢山あると思いますので、このような細かな話は あまり気にならない時代なのかもしれません。
 
 # 小休止

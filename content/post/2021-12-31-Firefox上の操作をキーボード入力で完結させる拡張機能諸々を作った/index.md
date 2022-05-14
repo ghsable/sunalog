@@ -32,7 +32,7 @@ draft: false
 # 拡張機能
 
 ## vimode
-```
+```text
 ⚠️
 キーボードショートカットの競合はなるべく避けるよう意識したつもりですが、完全に避ける事は当然に不可能です。
 (余談ですが、vimode のような拡張機能は、ブラウザベンダが想定している「王道」ではなく「邪道」な拡張機能です。)
@@ -79,7 +79,7 @@ vimode が機能して困る場面で「拡張機能を無効」、必要な場�
 [![demo_searchmode](https://raw.githubusercontent.com/ghsable/searchmode/main/.readme/images/demo_searchmode.gif)](https://raw.githubusercontent.com/ghsable/searchmode/main/.readme/images/demo_searchmode.mp4)
 
 ## mousemode
-```
+```text
 ⚠️
 Repository を Public から Public archive へ変更しました。
 私が、X Window System から Wayland へ移行したためです。

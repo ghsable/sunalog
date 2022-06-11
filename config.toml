@@ -5,7 +5,7 @@ title = "sunalog"
 publishDir = "docs"
 googleAnalytics = "UA-157767797-1"
 theme = "github-style"
-copyright = "© 2021 <a href=\"https://github.com/ghsable/sunalog\">GitHub</a>, Inc."
+copyright = "© 2021-2022 <a href=\"https://github.com/ghsable/sunalog\">GitHub</a>, Inc."
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 

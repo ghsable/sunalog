@@ -40,7 +40,7 @@ draft: false
 - トイレットペーパー
 - ペーパータオル
 - 綿棒
-- [水の【激落ちくん】](https://www.gekiochikun.jp/brands/mizu/)
+- [LEC](https://www.lecinc.co.jp/) [水の【激落ちくん】](https://www.gekiochikun.jp/brands/mizu/)
 - [Panasonic](https://panasonic.jp/) [MC-RS310](https://panasonic.jp/soji/p-db/MC-RS310.html) [取扱説明書](https://panasonic.jp/soji/p-db/MC-RS310_manualdl.html)
 
 おや、タイヤの取り外しが出来ない・・。  

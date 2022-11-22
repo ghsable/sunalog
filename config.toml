@@ -10,7 +10,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 
 [Params]
- author = "suna"
+ author = "sunalog"
  description = "Use software leverage to your advantage."
  rss = true
  github = "ghsable"

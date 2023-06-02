@@ -22,12 +22,12 @@ draft: false
 * [おわりに](#おわりに)
 
 # はじめに
-[Firefox Monitor](https://monitor.firefox.com/) をご存知だろうか？  
-[Firefox Monitor](https://monitor.firefox.com/) の利用を通して、個人のパスワード管理について個人的な見解を述べたい。
+[Firefox Monitor](https://monitor.firefox.com/) をご存知でしょうか？  
+[Firefox Monitor](https://monitor.firefox.com/) の利用を通して、個人のパスワード管理についての個人的な見解を述べてみます。
 
 # そもそも Firefox Monitorとは？
 [Firefox Monitor](https://monitor.firefox.com/) とは、`自分のメールアドレスでアカウント登録をしている各種サービス`から、データ(`メールアドレス`, `パスワード`, `電話番号`...)の侵害状況を把握できるWebサービスです。  
-[Firefoxアカウント](https://www.mozilla.org/ja/firefox/accounts/) のメインメールアドレスを登録すれば、新たにデータ侵害が発覚した際に 通知を受け取る事もできます。
+[Firefoxアカウント](https://www.mozilla.org/ja/firefox/accounts/) のメインメールアドレスを登録すれば、新たにデータ侵害が発覚した際に通知を受け取る事もできます。
 
 # 使ってみた結果どうだったのか？
 ははは・・・  

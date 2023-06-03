@@ -13,7 +13,7 @@ draft: false
 - [searchmode](https://ghsable.github.io/searchmode/)
 - [mousemode](https://crates.io/crates/mousemode)
 
-`拡張機能 + 諸々`によって [Firefox](https://www.mozilla.org/en-US/firefox/new/)上の操作をキーボード入力で完結させることを目指しました。
+「`拡張機能 + 諸々`」によって [Firefox](https://www.mozilla.org/en-US/firefox/new/) 上の操作をキーボード入力で完結させることを目指しました。
 
 # 目次
 * [誘い](#誘い)
@@ -64,7 +64,7 @@ vimode が機能して困る場面で「拡張機能を無効」、必要な場�
 これは至極シンプルなWeb検索トップ画面で、検索エンジンの切り替えができるようになっています。  
 - [searchmode](https://ghsable.github.io/searchmode/)
 
-[vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/) の キー`o` で開くようにしており、[vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/)の機能の一部としての位置付けとなります。  
+[vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/) のキー「`o`」で開くようにしており、[vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/)の機能の一部としての位置付けとなります。  
 ただし、独立したWebページにしているため（※1）単体での利用もできます。  
 動的にDOM操作を行う数多の検索トップ画面の気持ち悪さから、多少なりとも開放されるのかもしれません。  
 （※1）組込みページは拡張機能が無効になる仕様が存在するため、独立したWebページにしています。
@@ -88,9 +88,9 @@ koute/stdweb - https://github.com/koute/stdweb
 ついでに余談ですが、mousemode 的アプローチは お遊び程度のご利用をお勧めします。
 手元に「赤ポチ」がある方は、そちらをご利用された方が幸せになれると思います。
 ```
-ページ内のリンクをクリックするために `Tab`を連打して目的のリンクにフォーカスを合わせなければいけない？  
+ページ内のリンクをクリックするために「`Tab`」を連打して目的のリンクにフォーカスを合わせなければいけない？  
 その心配は無用、マウス操作もキーボード操作に組み込んでしまえば良いのだ。わはは。  
-あなたは`Tab`を連打する必要も無いし、リンク属性に付与された小さなアルファベットに目を凝らす必要も無いのDA。  
+あなたは「`Tab`」を連打する必要も無いし、リンク属性に付与された小さなアルファベットに目を凝らす必要も無いのDA。  
 - [mousemode](https://crates.io/crates/mousemode)
 
 あとは、[Demo](https://github.com/ghsable/mousemode#demo) へどうぞ。  

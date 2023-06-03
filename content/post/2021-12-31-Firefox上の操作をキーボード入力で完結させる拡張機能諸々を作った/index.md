@@ -100,7 +100,7 @@ koute/stdweb - https://github.com/koute/stdweb
 # おわり
 「マウスを排す」というよりは、可能な限り「既存との共存」を目指しました。  
 
-キーボードだけで [Firefox](https://www.mozilla.org/en-US/firefox/new/) をそれなりに操作ができるようになったのではないでしょうか。  
+[Firefox](https://www.mozilla.org/en-US/firefox/new/) をキーボードだけでそれなりに操作ができるようになったのではないでしょうか。  
 
 キーバインドは人との相性問題が大きいですが、私と感覚が近い方がいらっしゃれば幸いです。  
 

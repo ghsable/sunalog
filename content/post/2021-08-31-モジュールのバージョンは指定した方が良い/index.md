@@ -59,14 +59,14 @@ To fix this you could try to:
 
 # エラーの原因と解決方法
 本エラーの原因は、以下の通りです。
-* `requestment.txt`の [sphinx](https://github.com/sphinx-doc/sphinx), [flask](https://github.com/pallets/flask) のバージョン指定
+* 「`requestment.txt`」の [sphinx](https://github.com/sphinx-doc/sphinx), [flask](https://github.com/pallets/flask) のバージョン指定
 
 本エラーの解決方法は、以下の通りです。
 * [flask](https://github.com/pallets/flask) が [Jinja2](https://github.com/pallets/jinja) `3.0`未満（且つ `2.3`以上）を依存モジュールとしていたバージョンまで下げる
 * エラーの解決を一旦放置しておき、[sphinx](https://github.com/sphinx-doc/sphinx) が [Jinja2](https://github.com/pallets/jinja) `3.0`以上に対応した後に [sphinx](https://github.com/sphinx-doc/sphinx) のバージョンを上げる
 
 # エラーの原因の原因
-* [Dependabot](https://dependabot.com/) による「`Pull Request`」の内容確認が不足していた（`merge`するまでの流れ: [環境説明 - 補足](#環境説明---補足)）
+* [Dependabot](https://dependabot.com/) による「`Pull Request`」の内容確認が不足していた（「`merge`」するまでの流れ: [環境説明 - 補足](#環境説明---補足)）
 
 # 余談
 [flask](https://github.com/pallets/flask) と [Jinja2](https://github.com/pallets/jinja) の開発元は、[Armin Ronacher](https://lucumr.pocoo.org/about/) が率いる [Pallets](https://palletsprojects.com/) です。  
@@ -76,7 +76,7 @@ To fix this you could try to:
 # 小休止
 お疲れ様です。  
 ここまで 夕方に読むと頭が痛くなるかもしれません。  
-エラーに忠実に あえて回りくどく書いています。  
+エラーに忠実に、あえて回りくどく書いています。  
 「`心地良い 頭の体操`」になると幸いです。  
 [小休止](#小休止) と言っても 次で最後です。(ｵｲｯ)
 

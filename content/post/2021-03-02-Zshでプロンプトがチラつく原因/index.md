@@ -11,7 +11,7 @@ draft: false
 
 え？何も違和感を感じないって？  
 
-では、素の [Zsh](https://www.zsh.org/) で「`Enter`」を連打してみます。  
+じゃあ、素の [Zsh](https://www.zsh.org/) で「`Enter`」を連打してみます。  
 
 ![image2](image2.gif)
 

@@ -1,5 +1,5 @@
 ---
-title: "HelloWorld"
+title: "Hello World"
 date: 2020-02-10T03:49:23+09:00
 summary: "静的サイトジェネレーターでブログを構築した話"
 draft: false

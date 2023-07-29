@@ -145,7 +145,7 @@ draft: false
 # 余談（二段階認証（2FA）について）
 [二段階認証（2FA）に対応しているサービスは二段階認証（2FA）を設定する](#二段階認証2faに対応しているサービスは二段階認証2faを設定する) にて 二段階認証（2FA）を推奨していますが、設定後にログイン手段を失う事態には注意しなければなりません。  
 例えば [Google Authenticator](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2) で設定後にスマートフォンの故障/紛失やQRコード移行失敗などでアクセス手段を失ってしまうと「`詰み`」ます。  
-復旧手段が用意されているクラウドベースな [Authy](https://authy.com/) や [Yubico](https://www.yubico.com/) の製品（物理キー）と組み合わせるといった、より堅牢な手段も考えられます。
+復旧手段が用意されているクラウドベースな [Authy](https://authy.com/) や [Yubico](https://www.yubico.com/) の製品（物理キー）と組み合わせるといった「より堅牢」な手段も考えられます。
 
 # おわりに
 ここまで読んでいただき、ありがとうございます。  

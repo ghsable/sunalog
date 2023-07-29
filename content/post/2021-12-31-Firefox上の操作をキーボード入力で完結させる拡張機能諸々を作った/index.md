@@ -35,7 +35,7 @@ draft: false
 キーボードショートカットの競合はなるべく避けるよう意識したつもりですが、完全に避ける事は当然に不可能です。
 (余談ですが vimode のような拡張機能はブラウザベンダが想定している「王道」ではなく「邪道」な拡張機能です。)
 また vimode が機能しては困るサイトも出てくると思います。(タイピングサイトなど)
-そのようなサイトでは vimode を機能させないように なるべく共通の特性でフィルターを掛けていますが、
+そのようなサイトでは vimode を機能させないようになるべく共通の特性でフィルターを掛けていますが、
 共通の特性の無いWebサイトに対しては個別の対応はしていません。(対応予定もございません。)
 vimode が機能して困る場面で「拡張機能を無効」、必要な場面で「拡張機能を有効」という運用を想定しています。
 ```
@@ -62,7 +62,7 @@ vimode が機能して困る場面で「拡張機能を無効」、必要な場�
 これは至極シンプルなWeb検索トップ画面で検索エンジンの切り替えができるようになっています。  
 - [searchmode](https://ghsable.github.io/searchmode/)
 
-[vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/) のキー「`o`」で開くようにしており、[vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/)の機能の一部としての位置付けとなります。  
+[vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/) のキー「`o`」で開くようにしており、[vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/) の機能の一部としての位置付けとなります。  
 ただし独立したWebページにしているため（※1）単体での利用もできます。  
 動的にDOM操作を行う数多の検索トップ画面の気持ち悪さから多少なりとも開放されるかもしれません。  
 （※1）組込みページは拡張機能が無効になる仕様が存在するため、独立したWebページにしています。
@@ -76,13 +76,13 @@ vimode が機能して困る場面で「拡張機能を無効」、必要な場�
 ```text
 ⚠️
 Repository を Public から Public archive へ変更しました。
-私が X Window System から Wayland へ移行したためです。
+私が X Window System から Wayland へ移行したからです。
 
 また dependencies の mouse_rs の dependencies の stdweb は2019年10月に開発を停止しています。
 ご利用の際はご留意いただけますと幸いです。
 koute/stdweb - https://github.com/koute/stdweb
 
-ついでに余談ですが ousemode 的アプローチは お遊び程度のご利用をお勧めします。
+ついでに余談ですが mousemode 的アプローチはお遊び程度のご利用をお勧めします。
 手元に「赤ポチ」がある方はそちらをご利用された方が幸せになれると思います。
 ```
 ページ内のリンクをクリックするために「`Tab`」を連打して目的のリンクにフォーカスを合わせなければいけない？  
@@ -94,7 +94,7 @@ koute/stdweb - https://github.com/koute/stdweb
 [![demo_mousemode](https://raw.githubusercontent.com/ghsable/mousemode/main/.readme/images/demo_mousemode.gif)](https://raw.githubusercontent.com/ghsable/mousemode/main/.readme/images/demo_mousemode.mp4)
 
 # おわり
-「マウスを排す」というよりは可能な限り「既存との共存」を目指しました。
-[Firefox](https://www.mozilla.org/en-US/firefox/new/) をキーボードだけでそれなりに操作ができるようになったのではないでしょうか。
+「マウスを排す」というよりは可能な限り「既存との共存」を目指しました。  
+[Firefox](https://www.mozilla.org/en-US/firefox/new/) をキーボードだけでそれなりに操作ができるようになったのではないでしょうか。  
 キーバインドは人との相性問題が大きいですが、私と感覚が近い方がいらっしゃれば幸いです。
 数あるオペレーションの一つ として楽しんでいただければ嬉しく思います。

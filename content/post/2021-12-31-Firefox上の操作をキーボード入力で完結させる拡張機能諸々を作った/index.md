@@ -58,8 +58,7 @@ vimode が機能して困る場面で「拡張機能を無効」、必要な場�
 # 諸々
 
 ## searchmode
-続いて [vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/) のトップページ。  
-これは至極シンプルなWeb検索トップ画面で検索エンジンの切り替えができるようになっています。  
+続いて [vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/) のトップページ。これは至極シンプルなWeb検索トップ画面で検索エンジンの切り替えができるようになっています。
 - [searchmode](https://ghsable.github.io/searchmode/)
 
 [vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/) のキー「`o`」で開くようにしており、[vimode](https://addons.mozilla.org/en-US/firefox/addon/vimode/) の機能の一部としての位置付けとなります。  
@@ -94,7 +93,5 @@ koute/stdweb - https://github.com/koute/stdweb
 [![demo_mousemode](https://raw.githubusercontent.com/ghsable/mousemode/main/.readme/images/demo_mousemode.gif)](https://raw.githubusercontent.com/ghsable/mousemode/main/.readme/images/demo_mousemode.mp4)
 
 # おわり
-「マウスを排す」というよりは可能な限り「既存との共存」を目指しました。  
-[Firefox](https://www.mozilla.org/en-US/firefox/new/) をキーボードだけでそれなりに操作ができるようになったのではないでしょうか。  
-キーバインドは人との相性問題が大きいですが、私と感覚が近い方がいらっしゃれば幸いです。
-数あるオペレーションの一つ として楽しんでいただければ嬉しく思います。
+「マウスを排す」というよりは可能な限り「既存との共存」を目指しました。[Firefox](https://www.mozilla.org/en-US/firefox/new/) をキーボードだけでそれなりに操作ができるようになったのではないでしょうか。  
+キーバインドは人との相性問題が大きいですが、私と感覚が近い方がいらっしゃれば幸いです。数あるオペレーションの一つ として楽しんでいただければ嬉しく思います。

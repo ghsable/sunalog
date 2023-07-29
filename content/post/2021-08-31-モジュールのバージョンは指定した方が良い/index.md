@@ -52,8 +52,8 @@ To fix this you could try to:
 ```
 
 記載の通りですが、以下の内容が書かれています。
-* [sphinx](https://github.com/sphinx-doc/sphinx) `4.0.1`は、[Jinja2](https://github.com/pallets/jinja) `3.0`未満（且つ `2.3`以上）が必要
-* [flask](https://github.com/pallets/flask) `2.0.0`は、[Jinja2](https://github.com/pallets/jinja) `3.0`以上が必要
+* [sphinx](https://github.com/sphinx-doc/sphinx) `4.0.1`は [Jinja2](https://github.com/pallets/jinja) `3.0`未満（且つ `2.3`以上）が必要
+* [flask](https://github.com/pallets/flask) `2.0.0`は [Jinja2](https://github.com/pallets/jinja) `3.0`以上が必要
 
 [Jinja2](https://github.com/pallets/jinja) のバージョンで「`conflict`」が発生しています。
 

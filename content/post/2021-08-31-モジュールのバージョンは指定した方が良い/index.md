@@ -25,8 +25,7 @@ draft: false
 * CI/CD: [GitHub Actions](https://github.com/features/actions/)
 * PaaS: [Heroku](https://heroku.com/)
 
-話に必要な情報に絞って明示しました。  
-より詳細を把握したい方は [aimay#Development](https://github.com/ghsable/aimay#development) をご覧ください。
+話に必要な情報に絞って明示しました。より詳細を把握したい方は [aimay#Development](https://github.com/ghsable/aimay#development) をご覧ください。
 
 # 環境説明 - 補足
 モジュールとそのバージョンを管理する「`requirements.txt`」を [Dependabot](https://dependabot.com/) が監視して最新バージョンを検知します。  
@@ -70,13 +69,13 @@ To fix this you could try to:
 * [Dependabot](https://dependabot.com/) による「`Pull Request`」の内容確認が不足していた（「`merge`」するまでの流れ: [環境説明 - 補足](#環境説明---補足)）
 
 # 余談
-[flask](https://github.com/pallets/flask) と [Jinja2](https://github.com/pallets/jinja) の開発元は、[Armin Ronacher](https://lucumr.pocoo.org/about/) が率いる [Pallets](https://palletsprojects.com/) です。[flask](https://github.com/pallets/flask) と [sphinx](https://github.com/sphinx-doc/sphinx) の開発元は違うんですねぇ..。  
+[flask](https://github.com/pallets/flask) と [Jinja2](https://github.com/pallets/jinja) の開発元は [Armin Ronacher](https://lucumr.pocoo.org/about/) が率いる [Pallets](https://palletsprojects.com/) です。[flask](https://github.com/pallets/flask) と [sphinx](https://github.com/sphinx-doc/sphinx) の開発元は違うんですねぇ..。  
 現在では依存関係による問題を回避してくれるパッケージ管理ツールは沢山あると思いますので、このような細かな話はあまり気にならない時代なのかもしれません。
 
 # 小休止
 お疲れ様です。ここまでを夕方に読むと頭が痛くなるかもしれません。  
 エラーに忠実に、あえて回りくどく書いています。「`心地良い 頭の体操`」になると幸いです。  
-[小休止](#小休止) と言っても、次で最後です。(ｵｲｯ)
+[小休止](#小休止) と言っても次で最後です。(ｵｲｯ)
 
 # `モジュールのバージョンは指定した方が良い`
 [エラーの原因の原因](#エラーの原因の原因) の通り、形ではバージョン指定をしていましたが実態としては「`常に最新を保つ`」ようになっていました。  

@@ -1,27 +1,26 @@
-baseURL = "https://ghsable.github.io/sunalog"
-#baseURL = "https://sunalog.tk/"
+baseURL = "https://ghsable.github.io/sunalog" #baseURL = "https://sunalog.tk/"
+copyright = "© 2021-2022 <a href=\"https://github.com/ghsable/sunalog\">GitHub</a>, Inc."
+googleAnalytics = "UA-157767797-1"
 languageCode = "en-us"
+theme = "github-style"
 title = "sunalog"
 publishDir = "docs"
-googleAnalytics = "UA-157767797-1"
-theme = "github-style"
-copyright = "© 2021-2022 <a href=\"https://github.com/ghsable/sunalog\">GitHub</a>, Inc."
 pygmentsCodeFences = true
 pygmentsUseClasses = true
 
-[Params]
- author = "sunalog"
- description = "Use software leverage to your advantage."
- rss = true
- github = "ghsable"
- #twitter = ""
- #email = ""
- url = "https://ghsable.github.io"
- avatar = "/sunalog/images/uploads/shima.png"
- favicon = "/sunalog/images/github.png"
- location = "Japan | NixOS"
- lastmod = true
- headerIcon = "/images/GitHub-Mark-Light-32px.png"
-
 [frontmatter]
  lastmod = ["lastmod", ":fileModTime", ":default"]
+
+[Params]
+ author = "sunalog"
+ avatar = "/sunalog/images/uploads/shima.png"
+ description = "Use software leverage to your advantage."
+ #email = ""
+ favicon = "/sunalog/images/github.png"
+ github = "ghsable"
+ headerIcon = "/images/GitHub-Mark-Light-32px.png"
+ lastmod = true
+ location = "Japan | NixOS"
+ rss = true
+ #twitter = ""
+ url = "https://ghsable.github.io"

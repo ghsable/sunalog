@@ -16,6 +16,7 @@ pygmentsUseClasses = true
  avatar = "/sunalog/images/uploads/shima.png"
  description = "Use software leverage to your advantage."
  #email = ""
+ enableGitalk = true
  favicon = "/sunalog/images/github.png"
  github = "ghsable"
  headerIcon = "/images/GitHub-Mark-Light-32px.png"

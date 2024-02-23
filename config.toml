@@ -21,6 +21,7 @@ pygmentsUseClasses = true
  favicon = "/sunalog/images/github.png"
  location = "Japan | NixOS"
  lastmod = true
+ headerIcon = "/images/GitHub-Mark-Light-32px.png"
 
 [frontmatter]
  lastmod = ["lastmod", ":fileModTime", ":default"]

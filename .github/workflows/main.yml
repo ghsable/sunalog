@@ -28,9 +28,9 @@ jobs:
     # peaceiris/actions-hugo
     # https://github.com/peaceiris/actions-hugo
     - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
+      uses: peaceiris/actions-hugo@v3
       with:
-        hugo-version: '0.83.1'
+        hugo-version: '0.145.0'
 
     # Runs a single command using the runners shell
     - name: Build
